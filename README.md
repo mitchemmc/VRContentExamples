@@ -8,7 +8,7 @@ The VR Content Examples is a project attempting to show the community how to acc
 Current levels include:
 
 * VR Examples Introduction
-* VR Trace Interaction
+* VR Trace Interaction [Example](https://www.youtube.com/watch?v=ieBVoEPCagk)
   * Basic Interaction
   * Basic 3D Menu [Example](https://www.youtube.com/watch?v=A5bK7wHmFR4)
   * Basic Internet Browser [Example](https://www.youtube.com/watch?v=0Di6ziu4Qfw)
