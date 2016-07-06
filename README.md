@@ -18,4 +18,9 @@ Current levels include:
 * VR World Interaction [Example](https://www.youtube.com/watch?v=6MWGr3iMdZ8)
   * Motion Controller World Object Interaction
   * Physics Object Pickup and Throw
+  * Pressable Button [Example](https://www.youtube.com/watch?v=dXN8d21qCAs)
+  * Lever [Example](https://www.youtube.com/watch?v=y0d9UUkw2888)
+  * Drawer [Example](https://www.youtube.com/watch?v=WYUFGFBswIQ)
+  * Cartridge [Example](https://www.youtube.com/watch?v=MPO5k0P1xMI)
+  * Slider [Example](https://www.youtube.com/watch?v=68ygjJRCuKY)
 
