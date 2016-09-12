@@ -3,14 +3,16 @@ Unreal Engine 4 community VR content examples
 
 The VR Content Examples is a project attempting to show the community how to accomplish commnon functionality in Unreal Engine for VR
 
-[Video demonstration](https://youtu.be/YYH2qjzpZGo)
+[Video demonstration 1/2](https://youtu.be/YYH2qjzpZGo)
+
+[Video demonstration 2/2](https://www.youtube.com/watch?v=1vhNIBwrufk)
 
 Current levels include:
 
 * VR Examples Introduction
 * VR Trace Interaction [Example](https://www.youtube.com/watch?v=ieBVoEPCagk)
   * Basic Interaction
-  * Basic 3D Menu [Example](https://www.youtube.com/watch?v=A5bK7wHmFR4)
+  * Basic 3D Menu
   * Basic Internet Browser [Example](https://www.youtube.com/watch?v=0Di6ziu4Qfw)
   * Basic Teleport Volume 
   * Basic Teleport Node [Example](https://www.youtube.com/watch?v=MWE4s2aWQ0g)
@@ -23,3 +25,4 @@ Current levels include:
   * Drawer [Example](https://www.youtube.com/watch?v=WYUFGFBswIQ)
   * Cartridge [Example](https://www.youtube.com/watch?v=MPO5k0P1xMI)
   * Slider [Example](https://www.youtube.com/watch?v=68ygjJRCuKY)
+  * Whiteboard [Example](https://www.youtube.com/watch?v=uQZNOFr1fKo)
