@@ -1,7 +1,7 @@
 # VRContentExamples
 Unreal Engine 4 community VR content examples
 
-The VR Content Examples is a project attempting to show the community how to accomplish commnon functionality in Unreal Engine for VR
+The VR Content Examples is a project attempting to show the community how to accomplish common functionality in Unreal Engine for VR
 
 [Video demonstration 1/2](https://youtu.be/YYH2qjzpZGo)
 
