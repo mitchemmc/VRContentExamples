@@ -26,4 +26,5 @@ Current levels include:
   * Cartridge [Example](https://www.youtube.com/watch?v=MPO5k0P1xMI)
   * Slider [Example](https://www.youtube.com/watch?v=68ygjJRCuKY)
   * Whiteboard [Example](https://www.youtube.com/watch?v=uQZNOFr1fKo)
-  * Door
+  * Door [Example](https://www.youtube.com/watch?v=hy8YU2LUEkU)
+  * Guns [Example](https://www.youtube.com/watch?v=1Gy3_oQc_Lc)
